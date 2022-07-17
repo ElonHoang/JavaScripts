@@ -39,6 +39,10 @@
 			- Nếu không có nó sẽ tiếp tục tìm lên trên Prototype của Object và cứ tiếp tục như thế cho đến khi gặp Object.prototype thì dừng và cho ra kết quả (undefined nếu không tìm thấy).
 
 #JavaScript - Caro
+-Tạo ô bàn cờ 
+-Cho phép 2 người chơi cùng chơi (1 bot 1 người)
+-Tạo ván mới, chơi lại ván , tự động chơi , chịu thua
+-Check thắng thua sau mỗi ván
 
 
 	
